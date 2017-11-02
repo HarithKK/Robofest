@@ -1,0 +1,2 @@
+Hand servo : lower position 60
+			 higher position 148
